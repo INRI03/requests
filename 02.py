@@ -1,7 +1,7 @@
 import requests
 import os
 
-YANDEX_TOKEN = 'AQAAAAAN_EidAADLW6McFuOt_EKzt1eZDuFoFQM'
+YANDEX_TOKEN = '***'
 
 
 class YaDisk:
